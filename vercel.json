@@ -1,0 +1,22 @@
+{
+  "rewrites": [
+    {
+      "source": "/agency-work",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/other-work",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/about-me",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/school-work",
+      "destination": "/index.html"
+    }
+  ]
+}
+
+
